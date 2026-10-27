@@ -64,3 +64,10 @@ The KPI dashboard includes:
 Client-Request-KPI-Tracker/
 ├── Client_Request_KPI_Tracker.xlsx
 └── README.md
+
+```
+## How to View the Project
+
+1. Download `Client_Request_KPI_Tracker.xlsx` from the repository.
+2. Open it using Microsoft Excel Online or Google Sheets.
+3. Select the **KPI Dashboard** tab to view the charts and performance metrics.
